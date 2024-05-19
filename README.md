@@ -1,16 +1,10 @@
 # Make-Canvas-Dark-Again
 
-#### Making canvas.asu.edu dark cus my eyes hurt. 
-
-
-![screenshot](https://github.com/Abhinav-ranish/Make-Canvas-Dark-Again/blob/main/pics/proofofconcept.png)
-
-
 <h1 align="center">
   <br>
-  <a><img src="https://raw.githubusercontent.com/Abhinav-ranish/ASU-Autologin/main/asu.ico" alt="ASU" width="200"></a>
+  <a><img src="https://github.com/Abhinav-ranish/Make-Canvas-Dark-Again/blob/main/pics/proofofconcept.png" alt="ASU" width="200"></a>
   <br>
-  Canvas Dark Chrome Extension
+  Making canvas.asu.edu dark cus my eyes hurt. 
   <br>
 </h1>
 
