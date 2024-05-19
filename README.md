@@ -4,7 +4,7 @@
   <br>
   <a><img src="https://github.com/Abhinav-ranish/Make-Canvas-Dark-Again/blob/main/pics/proofofconcept.png" alt="ASU"></a>
   <br>
-  Making canvas.asu.edu dark cus my eyes hurt. 
+  <h3> Making canvas.asu.edu dark cus my eyes hurt. </h3>
   <br>
 </h1>
 
