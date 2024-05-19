@@ -1,8 +1,10 @@
 # Make-Canvas-Dark-Again
 
-
-
 #### Making canvas.asu.edu dark cus my eyes hurt. 
+
+
+![screenshot](https://github.com/Abhinav-ranish/Make-Canvas-Dark-Again/blob/main/pics/proofofconcept.png)
+
 
 <h1 align="center">
   <br>
@@ -29,7 +31,7 @@
   <a href="#license">License</a>
 </p>
 
-![screenshot](https://github.com/Abhinav-ranish/Make-Canvas-Dark-Again/blob/main/pics/proofofconcept.png)
+
 
 ## Key Features
 * Cross-compatible (Mac, Unix, Windows) as long as u use chromium 
