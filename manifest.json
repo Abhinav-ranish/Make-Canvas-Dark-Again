@@ -1,0 +1,27 @@
+{
+    "manifest_version": 3,
+    "name": "Make Canvas Dark Again",
+    "description": "I smacked some dark mode on Canvas for you. You're welcome.",
+    "homepage_url": "https://github.com/abhinav-ranish",
+    "version": "6.9",
+    "permissions": ["activeTab", "scripting"],
+    "background": {
+      "service_worker": "background.js"
+    },
+    "content_scripts": [
+      {
+        "matches": ["*://*.instructure.com/*", "*://canvas.asu.edu/*"],
+        "css": ["styles.css"],
+        "js": ["content.js"]
+      }
+    ],
+    "icons": {
+      "48": "icon.png",
+      "128": "icon128.png"
+    },
+    "action": {
+      "default_popup": "popup.html",
+      "default_icon": "icon.png"
+    }
+  }
+  
