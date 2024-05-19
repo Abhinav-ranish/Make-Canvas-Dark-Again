@@ -2,7 +2,7 @@
 
 <h1 align="center">
   <br>
-  <a><img src="https://github.com/Abhinav-ranish/Make-Canvas-Dark-Again/blob/main/pics/proofofconcept.png" alt="ASU" width="200"></a>
+  <a><img src="https://github.com/Abhinav-ranish/Make-Canvas-Dark-Again/blob/main/pics/proofofconcept.png" alt="ASU"></a>
   <br>
   Making canvas.asu.edu dark cus my eyes hurt. 
   <br>
