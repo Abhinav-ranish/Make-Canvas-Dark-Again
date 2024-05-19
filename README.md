@@ -29,7 +29,7 @@
   <a href="#license">License</a>
 </p>
 
-[![screenshot](https://img.youtube.com/vi/SxLpP7ES3-o/0.jpg)](https://youtu.be/SxLpP7ES3-o)
+[![screenshot](https://github.com/Abhinav-ranish/Make-Canvas-Dark-Again/blob/main/pics/proofofconcept.png)
 
 ## Key Features
 * Cross-compatible (Mac, Unix, Windows) as long as u use chromium 
