@@ -1,7 +1,6 @@
 # Make-Canvas-Dark-Again
 
 <h1 align="center">
-  <br>
   <a><img src="https://github.com/Abhinav-ranish/Make-Canvas-Dark-Again/blob/main/pics/proofofconcept.png" alt="ASU"></a>
   <br>
   <h3 align="center"> Making canvas.asu.edu dark cus my eyes hurt. </h3>
